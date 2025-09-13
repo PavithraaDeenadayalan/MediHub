@@ -1,1 +1,1 @@
-Android app built with kotlin language 
+Android app built with kotlin 
