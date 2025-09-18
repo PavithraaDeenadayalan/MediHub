@@ -1,2 +1,2 @@
 Android app built with kotlin 
-Made with love
+Made with love ❤️
