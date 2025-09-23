@@ -1,3 +1,2 @@
-## Android app built with kotlin
-Author: Pavithraaa Deenadayalan 
+## Android app built with kotlin 
 Made with love ❤️
